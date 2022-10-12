@@ -13,6 +13,7 @@ Oppgave 2
 •	Deretter setter den en start-hakeparentes i strengen. 
 •	Etterpå spør den om listen er tom. Det siste trinnet bestemmes av om metoden har noen data.
 •	brukte looperne for hvilke verdier som er i Listbox-byggeren til reverseString() bestemmer hvordan StringBuilders innhold fylles fra slutt til begynnelse. Denne metoden ble bygget på en lignende måte som reverseString(), bare med en omvendt streng som input i stedet for en StringBuilder.
+
 Oppgave 3
 •	Startet  ved å finne ut vor noden var.
 •	skjekker om indeksen er gyldig . 
@@ -22,6 +23,7 @@ Oppgave 3
 •	Etter å ha satt den innsatte verdien i listen til ønsket verdi, returnerer løkken til slutt T mid, som er verdien den erstattet. 
 •	Listens nye datastruktur lages ved å ta et segment fra mellom til. Etterpå utfører listen en sjekk fra til og plasserer eventuelle verdier som finnes mellom disse to indeksene i den nye strukturen.
 
+oppgave 4
 •	Metoden starter med å sette r = -1, som indikerer at den ikke skal inneholde noen null-verdier.
 
 •	 Etter å ha behandlet hode til hale i en løkke, returnerer den hvis det ikke er relevante verdier. Når den finner et likt beløp, returneres dette. 
